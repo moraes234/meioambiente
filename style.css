@@ -29,7 +29,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(6, 98, 16);
     text-decoration: none;
     font-weight: bold;
 }
@@ -51,7 +51,7 @@ section img {
 
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(7, 243, 168);
     text-align: center;
     padding: 1rem 0;
     position: fixed;
